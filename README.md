@@ -15,5 +15,5 @@ I'm a Software Engineer, MERN STACK(Aspiring). I'm committed to working my way t
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=blissfelix&show_icons=true&include_all_commits=true&hide_border=true" alt="Bliss's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissfelix&langs_count=8&layout=compact&hide_border=true" alt="Bliss's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=blissfelix3&show_icons=true&include_all_commits=true&hide_border=true" alt="Bliss's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blissfelix3&langs_count=8&layout=compact&hide_border=true" alt="Bliss's GitHub stats" /> |
 | ------------- | ------------- |
