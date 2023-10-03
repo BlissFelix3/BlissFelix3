@@ -24,7 +24,7 @@
 
  💬 Ask me about **Backend Node.js development**
 
- 📄 Looking to explore career opportunites <a href="https://drive.google.com/file/d/1aN89UEGBq1Bfr2O0ScatrxTvByHZ-1Rz/view?usp=sharing" target="blank">Resume</a>
+ 📄 Looking to explore career opportunites <a href="https://drive.google.com/file/d/13xXrx37f2Xlm8se39Pa_bZFYn0dCItZJ/view?usp=sharing" target="blank">Resume</a>
 
 📫 How to reach me:  
 Mail me at "blissfelix18@gmail.com"
