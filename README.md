@@ -41,7 +41,7 @@ Mail me at "blissfelix18@gmail.com"
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>	   
 		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/BlissFelix3">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/1aN89UEGBq1Bfr2O0ScatrxTvByHZ-1Rz/view?usp=sharing">
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/13xXrx37f2Xlm8se39Pa_bZFYn0dCItZJ/view?usp=sharing">
 					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
       </div>
 
