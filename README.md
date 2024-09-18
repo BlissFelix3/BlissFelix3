@@ -59,7 +59,7 @@ Mail me at "blissfelix18@gmail.com"
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlissFelix3&show_icons=true&locale=en&layout=compact" alt="BlissFelix3" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BlissFelix3&show_icons=true&locale=en" alt="BlissFelix3" /></p>
+
 </div>
 
 <br>
